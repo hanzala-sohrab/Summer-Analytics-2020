@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "python.pythonPath": "/home/hanzala/anaconda3/envs/ds/bin/python3.8"
+}
